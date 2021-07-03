@@ -16,7 +16,7 @@ https://hub.docker.com/r/limoe/qinglong
 
 
 ## Docker无法使用的 去docker下执行
-```
+```21
 apk add libc6-compat
 ```
 
